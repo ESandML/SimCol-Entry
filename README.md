@@ -3,6 +3,8 @@ Code repository for Team CVML's winning entry to the depth estimation task in th
 
 pvt weights instructions
 
+data
+
 [weights](https://drive.google.com/file/d/1MrFIuucIevR9Ub1y9defXacMiIyLfjX8/view?usp=sharing)
 
 acknowledgements
