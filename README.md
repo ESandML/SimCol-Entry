@@ -70,7 +70,7 @@ pip install -r requirements.txt
 Train FCBFormer-D on the train split of dataset:
 
 ```
-python train.py --data-root=[path]
+python train.py --data-root [path]
 ```
 
 
