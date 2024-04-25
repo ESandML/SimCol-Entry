@@ -121,7 +121,7 @@ python eval_synthetic_depth.py [path]
 
 ## 3. License
 
-This repository is released under the Apache 2.0 license as found in the [LICENSE](https://github.com/ESandML/FCBFormer/blob/main/LICENSE) file.
+This repository is released under the Apache 2.0 license as found in the [LICENSE](https://github.com/ESandML/SimCol-Entry/blob/main/LICENSE) file.
 
 ## 4. Citation
 
@@ -138,7 +138,7 @@ If you use this work, please consider citing the challenge paper:
 
 ## 5. Commercial use
 
-We allow commerical use of this work, as permitted by the [LICENSE](https://github.com/ESandML/FCBFormer/blob/main/LICENSE). However, where possible, please inform us of this use for the facilitation of our impact case studies.
+We allow commerical use of this work, as permitted by the [LICENSE](https://github.com/ESandML/SimCol-Entry/blob/main/LICENSE). However, where possible, please inform us of this use for the facilitation of our impact case studies.
 
 ## 6. Acknowledgements
 
